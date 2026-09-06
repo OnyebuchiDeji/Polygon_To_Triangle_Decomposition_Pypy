@@ -48,11 +48,6 @@ From the book:
 
 ```
 Polygon_To_Triangle_Decomposition_Pypy/
- ├── _scrnshots/
- │	├── scrnshot3.png
- │	├── scrnshot2.png
- │	├── scrnshot1.png
- │	└── scrnshot0.png
  ├── src/
  │	├── verify_triangulate.py
  │	├── triangulate.py
